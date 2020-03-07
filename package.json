@@ -1,0 +1,32 @@
+{
+  "name": "email-printer",
+  "version": "0.0.0",
+  "description": "A node based linkage between a thermal printer and a gmail account",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kusmeroglu/email-printer.git"
+  },
+  "keywords": [
+    "thermalprinter",
+    "raspberrypi"
+  ],
+  "author": "Linden Wright",
+  "license": "BSD 2-Clause License",
+  "bugs": {
+    "url": "https://github.com/Kusmeroglu/email-printer/issues"
+  },
+  "homepage": "https://github.com/Kusmeroglu/email-printer",
+  "dependencies": {
+    "base-64": "^0.1.0",
+    "imap": "^0.8.19",
+    "inspect": "0.0.2",
+    "lodash": "^4.17.15",
+    "pdfkit": "^0.11.0",
+    "striptags": "^3.1.1",
+    "utf8": "^3.0.0"
+  }
+}
