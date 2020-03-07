@@ -39,4 +39,4 @@ scp -r ~/Projects/email-printer/ pi@raspberrypi.local:~/email-printer
 
 crontab -e 
 add a line:
-*/10 * * * * ~/email-printer/checkandprint.sh
+*/10 * * * * ~/email-printer/checkandprint.sh >> ~/email-printer/log/checkandprint.log 2>&1
