@@ -41,7 +41,8 @@ module.exports = function fetchNewEmail() {
         const emailList = [];
 
         imapClient.once('ready', function() {
-            imapClient.openBox('INBOX', true, function(err) {
+            // note, readOnly must be false in order for fetch to mark as read.
+            imapClient.openBox('INBOX', false, function(err) {
                 if (err) {
                     throw err;
                 }
@@ -50,7 +51,7 @@ module.exports = function fetchNewEmail() {
                 imapClient.search([ 'UNSEEN', ['SINCE', 'Jan 1, 2020'] ], (err, results) => {
                     const f = imapClient.fetch(results, {
                         bodies: ['HEADER.FIELDS (FROM TO SUBJECT)', 'TEXT'],
-                        markSeen: true
+                        markSeen: true, // only works if inbox is not readOnly
                     });
                     // add each found message to our list
                     f.on('message', function(msg, seqno) {
@@ -74,7 +75,7 @@ module.exports = function fetchNewEmail() {
         });
 
         imapClient.once('end', function() {
-            resolve(emailList);
+             resolve(emailList);
             console.log('Connection ended');
         });
         imapClient.connect();

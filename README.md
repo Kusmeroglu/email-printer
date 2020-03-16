@@ -32,6 +32,13 @@ lpr -o fit-to-page [image]
 
 base64 --decode
 
+List print queue
+lpstat -o
+
+Delete everything in print queue
+cancel -a -x
+(yes, it's weird that cancel isn't prefixed but it is an lp- command)
+
 
 # Deployment
 
@@ -40,3 +47,10 @@ scp -r ~/Projects/email-printer/ pi@raspberrypi.local:~/email-printer
 crontab -e 
 add a line:
 */10 * * * * ~/email-printer/checkandprint.sh >> ~/email-printer/log/checkandprint.log 2>&1
+
+# TODO 
+
+Refactor body parsing properly into email fetching
+Handle attachments
+Write tests
+Turn links into qr codes

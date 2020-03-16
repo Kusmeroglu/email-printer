@@ -1,0 +1,242 @@
+----==_mimepart_5e648c2b52d05_210d4b732868976
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+
+"What is called genius is the abundance of life and health." - Henry David Thoreau
+
+Manage
+
+
+
+
+IFTTT
+
+	Manage on IFTTT:
+	https://links.ifttt.com/ls/click?upn=Dil-2BHP7dIFuBhLxawHC7RprZWtz83KvcgyH7gRjDPXPxNjmu8-2FnzIvZCKLjx-2BQXmcNEFYIUxNOnQ9q4O2HsldJkgCD7eD0rdU-2BZDnRjMn2YGMCVMDxUJacUfuVDkIvSUAmKwoCY5K0p8BxLgnlVSJ7qx0LS-2BNHzT0PJYe5HPaIIIyXvwjCVG202jfVI-2BO
+
+----==_mimepart_5e648c2b52d05_210d4b732868976
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+  <head>
+    <!--[if gte mso 9]> <xml> <o:OfficeDocumentSettings> <o:AllowPNG/> <o:PixelsPerInch>96</o:PixelsPerInch> </o:OfficeDocumentSettings> </xml> <![endif]-->
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="format-detection" content="date=no"/>
+    <meta name="format-detection" content="address=no"/>
+    <meta name="format-detection" content="telephone=no"/>
+    <meta name="x-apple-disable-message-reformatting"/>
+    <!--[if gte mso 9]> <style type="text/css" media="all"> sup { font-size: 100% !important; } </style> <![endif]-->
+    <style type="text/css">
+      img {
+        border: 0;
+        clear: both;
+        display: block;
+        float: none;
+        height: auto !important;
+        margin: 3px 10px 3px 0;
+        max-width: 100% !important;
+      }
+      embed,
+      object {
+        border: 0;
+        clear: both;
+        display: block;
+        float: none;
+      }
+      a img {
+        text-decoration: none;
+      }
+      p {
+        clear: both;
+      }
+      body {
+        font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';
+        font-size: 18px;
+        line-height: 1.4;
+        color: #000000 !important;
+      }
+      .content * {
+        font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';
+        font-size: 18px;
+        line-height: 1.4;
+        color: #000000 !important;
+      }
+      font {
+        line-height: inherit !important;
+        font-size: inherit !important;
+      }
+      .content a,
+      a,
+      a:visited {
+        color: #000000 !important;
+        text-decoration: underline !important;
+      }
+      h1 a {
+        color: white !important;
+      }
+
+      h1 {
+        font-size: 36px !important;
+      }
+      h2 {
+        font-size: 24px !important;
+      }
+      h3 {
+        font-size: 24px !important;
+      }
+      h4 {
+        font-size: 18px !important;
+      }
+      h5 {
+        font-size: 18px !important;
+      }
+      h6 {
+        font-size: 18px !important;
+      }
+      h1,
+      h2,
+      h3 {
+        line-height: 1.125 !important;
+      }
+      h4,
+      h5,
+      h6 {
+        line-height: 1.25 !important;
+      }
+
+      .footer img {
+        margin: 0;
+      }
+
+      td {
+        max-width: 640px;
+      }
+
+      @media screen and (max-width:700px) {
+        .content {
+          width: 100%!important;
+        }
+      }
+
+      /* Mobile styles */
+      @media only screen and (max-device-width: 480px), only screen and (max-width: 480px) {
+        .mobile-shell {
+          width: 100% !important;
+          min-width: 100% !important;
+        }
+
+        /* Fix Gmail iOS right margin issue */
+        u+.body .mobile-shell {
+          width: 100% !important;
+          width: 100vw !important;
+        }
+      }
+    </style>
+  </head>
+
+  <body class="body">
+    <table cellpadding="0" cellspacing="0" border="0" style="padding:0px;margin:0px;text-decoration:none;font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';font-size:18px;line-height:1.4;color:#000000 !important;" width="100%">
+      <tr>
+        <td align="left" valign="top">
+          <table border="0" cellspacing="0" cellpadding="0" class="mobile-shell">
+            <tr>
+              <td style="border-bottom: 3px solid #f5f5f5; padding: 0px 2px 90px; ">
+                <table class="content" cellpadding="0" cellspacing="0" border="0" width="600">
+                  <tr>
+                    <td>
+                      <table style="border-collapse:collapse;width:100%;max-width:100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      "What is called genius is the abundance of life and health." - Henry David Thoreau
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+<a href="https://links.ifttt.com/ls/click?upn=USlzx5zkykRoVjHNa-2B1lvamB6KCzgKvTfHkTgUjmLdpf-2BUPFGtUwSM2iC-2B9fOsGnQhn8_-2BuA5O7UWKtf1U-2B0tBM7RbiSUyproQObLsmCEX-2FSVFmkjulXagn1sRHC7RprZWtz83KvcgyH7gRjDPXPxNjmu8-2FnzIvZCKLjx-2BQXmcNEFYIUxNOnQ9q4O2HsldJkgCD7e6ERzaiEeISvcnuZR5t1Ko1L3kF15Kw6Q-2BLF8GuRt1t-2BNw1Wk9jTXzDsHvV0JY0ExBpIK2JZWDiNquPmp-2FyTeZTkqhAjOzjzPD-2F7LsHKDekfMYxoxsmz44rV5hkA">
+  <table cellpadding="12" cellspacing="0" style="width:100%;margin-top:36px;border-radius:10px;background-color:#2468ff;">
+    <tr>
+      <td width="52" align="right">
+        <img width="40" style="margin:0;border:0" src="https://assets.ifttt.com/images/channels/6/icons/on_color_regular.png" title="Email" alt="Email" />
+      </td>
+      <td>
+        <h3 style="margin: 6px auto;">
+          <font style="color: white !important; overflow-wrap: break-word; word-break: break-word;">
+            Manage
+          </font>
+        </h3>
+      </td>
+      <td width="22" align="left">
+        <img width="10" border="0" valign="middle" align="right" style="vertical-align:middle;border:0;border-style:none;margin:0;padding:0;margin-right:6px;" src="https://web-assets.ifttt.com/images/email-chevron-right.png" />
+      </td>
+    </tr>
+  </table>
+</a>
+
+
+
+
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <table class="footer" style="color: #999999;font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';font-size: 12px;line-height: 16px;text-align: center;font-weight: normal; text-align: center; vertical-align: top; width: 100%">
+                  <tr>
+                    <td style="padding: 50px 0; ">
+                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td class="img-center logo" align="center" width="128" style="padding-bottom: 50px; ">
+                            <!-- Logo -->
+                            <a href="https://links.ifttt.com/ls/click?upn=Dil-2BHP7dIFuBhLxawzNmBMwQWlTZQC3v-2FvLUUMPdzKg-3DZRPa_-2BuA5O7UWKtf1U-2B0tBM7RbiSUyproQObLsmCEX-2FSVFmkjulXagn1sRHC7RprZWtz83KvcgyH7gRjDPXPxNjmuo-2BD2-2BTuiNz5ATjPky-2BTzWDp-2FwUtMsEo-2Fhj" target="_blank"><img src="https://userimg-bee.customeriomail.com/images/client-env-57121/IFTTT%20Logo.png" width="128" border="0" alt="IFTTT" title="IFTTT"/></a>
+                            <!-- END Logo -->
+                          </td>
+                        </tr>
+                        <tr>
+                          <td align="center" style="padding-bottom: 28px; ">
+                            <!-- Button -->
+                            <table border="0" cellspacing="0" cellpadding="0">
+                              <tr>
+                                  <td class="img" width="140">
+                                    <a href="https://links.ifttt.com/ls/click?upn=xYQzSlc9Mikmaf7QwD5DUXQmHgLr7tPfNEONWGOCWVsL1Myb8Xa48UfUwnd-2FLE3hm77Ke5U7ZlTZfSYqwUsS4ckWdBSWB5UYftdGMfFC5OBc69uhjuS3gxvKTkAf7y0KRC1gG3lzjG-2FyZ83ggHJ0xQ-3D-3DMlFo_-2BuA5O7UWKtf1U-2B0tBM7RbiSUyproQObLsmCEX-2FSVFmkjulXagn1sRHCsabLICPcTzS5z0nN6hw0wJJtc08qG-2F4aoPSb3Si7xjVvoz1e57tjf4zHjfImSRzUXyqxlgF1lcn70GX09YIvH38ED2CenEwpMvIrRYcRRETNZYT6ws8mryYIBE6MuvE" target="_blank"><img src="https://userimg-bee.customeriomail.com/images/client-env-57121/apple_appstore_download@1x.png?1" width="140" height="42" border="0" alt="Download IFTTT for iOS" title="Download IFTTT for iOS"/></a>
+                                  </td>
+                                  <td class="img" width="12"></td>
+                                  <td class="img" width="140">
+                                    <a href="https://links.ifttt.com/ls/click?upn=OMOe1Ys9IfCMnfyJsH337VF0m1b0D3PIV6LxugE2XHb2opwvv-2BvfUD8RzpeMgE4321egTw3R1aaxFdO4-2Bl6h3M1JuBa-2B9Qc2xld-2Fn7SmSuOOBkbaR8HYdouAqjF41IjK8Fc-2FGuH9bVw6O7BX7CIQ-2B0NYAwq4IHKC56LILmPAAl4-3DL_x4_-2BuA5O7UWKtf1U-2B0tBM7RbiSUyproQObLsmCEX-2FSVFmkjulXagn1sRHC7Rf0mxycR3pBlspMJSlU" target="_blank"><img src="https://userimg-bee.customeriomail.com/images/client-env-57121/google_play_store_download@1x.png?1" width="140" height="42" border="0" alt="Download IFTTT for Android" title="Download IFTTT for Android"/></a>
+                                  </td>
+                              </tr>
+                            </table>
+                            <!-- END Buttons -->
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  
+<img src="https://links.ifttt.com/wf/open?upn=pUBH2GSKIHqbXaOOfn6q3WHgYbfDd0de3f-2FDj1LLVnn8Uj3yUtHDzhytNtY0ioiceGEfjfNyRDK8-2Bm-2BnY14-2FMxDH7YoiyRct4x6W-2FQQdOG-2BaRaXGKt5KviKBKJlg60mXL7Yg5YWNNypsckixLu8tKdzQbeuVsynfjY-2B-2Fwl2H4rOw-3D-3D" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/>
+</body>
+</html>
+
+
+----==_mimepart_5e648c2b52d05_210d4b732868976--
