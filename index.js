@@ -2,7 +2,7 @@ const util = require('util');
 const _ = require('lodash');
 const PDFDocument = require('pdfkit');
 const fs = require('fs');
-const fetchNewEmail = require('./fetch-new-email');
+const fetchNewEmail = require('./fetch-new-email-simple');
 const printEmailToPdfPage = require('./print-email-to-pdf-page');
 
 const width = 144;
@@ -33,7 +33,7 @@ fetchNewEmail().then((list) => {
         });
         // create a test file for this email
         fs.writeFileSync(email.from[0]+'.email', email.bodies, { flag: 'w' });
-        printEmailToPdfPage(doc, email);
+        printEmailToPdfPage(doc, email, maxWidth = width);
         console.log('FINISH <<<<<<<<<<<');
     });
 

@@ -14,8 +14,6 @@ function parseMessage(msg) {
             stream.on('data', function(chunk) {
                 count += chunk.length;
                 buffer += chunk.toString('utf8');
-                if (info.which === 'TEXT')
-                    console.log('Body [%s] (%d/%d)', util.inspect(info.which), count, info.size);
             });
             stream.once('end', function() {
                 if (info.which !== 'TEXT') {
@@ -42,7 +40,7 @@ module.exports = function fetchNewEmail() {
 
         imapClient.once('ready', function() {
             // note, readOnly must be false in order for fetch to mark as read.
-            imapClient.openBox('INBOX', false, function(err) {
+            imapClient.openBox('INBOX', true, function(err) {
                 if (err) {
                     throw err;
                 }

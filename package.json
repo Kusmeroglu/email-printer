@@ -23,6 +23,7 @@
   "dependencies": {
     "base-64": "^0.1.0",
     "imap": "^0.8.19",
+    "imap-simple": "^4.3.0",
     "inspect": "0.0.2",
     "lodash": "^4.17.15",
     "parse5": "^5.1.1",
